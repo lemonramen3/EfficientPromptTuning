@@ -1,0 +1,5 @@
+logs
+plots
+__pycache__
+TextClassification
+test.py
